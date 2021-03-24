@@ -1,2 +1,2 @@
 # IT115-final-project
-IT 155 final project repository
+IT 115 final project repository
